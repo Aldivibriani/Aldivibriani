@@ -1,13 +1,9 @@
 
-# Hi, I'm Aldi! 👋
+# Hi there, I'm Aldi! 👋
 👩‍💻 Full Stack Data Analyst 👩‍💻
 
 ## 🚀 About Me
-⚡️I'm a Full Stack Data Analyst who have vision to be known as professional data analyst.  
-
-⚡️I am currently on study in several bootcamps and will upload my projects soon.
-
-⚡️You can click on below to see my portfolio and LinkedIn. Feel free to connect with me 😄
+⚡️I'm a Full Stack Data Analyst who have passion in analysing data. I am currently focus on several learning and bootcamps in Data Analytics field⚡️
 
 
 ## 🔗 Links
