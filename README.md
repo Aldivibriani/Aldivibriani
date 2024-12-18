@@ -18,18 +18,25 @@
 
 ## 📈 Recent Projects
 ⚡️Analyzing Default Risk on Home Credit: In collaboration with Home Credit and Rakamin, I analyzed default rates and predicted customer risk profiles. Utilizing algorithms like Logistic Regression, Decision Tree, Random Forest, AdaBoost, and XGBoost, the Logistic Regression model achieved the best performance with an ROC AUC score of 0.74.
+
 ⚡️Creating a Model for Credit Risk Prediction: Partnering with ID/X Partners and Rakamin, I developed a model to enhance credit risk evaluation. The AdaBoost algorithm excelled with an ROC AUC score of 0.965 and Recall of 0.988, optimizing business decisions and minimizing potential losses.
 
 ## 🛠 Tools
 ⚡️Python
+
 ⚡️MySQL, PostgreSQL
+
 ⚡️Google Looker Studio
 
 ## 🛠 Skills
 ⚡️Statistics and Data Analytics
+
 ⚡️Programming Language Scripting
+
 ⚡️Machine Learning
+
 ⚡️Data Visualization & Storytelling
+
 ⚡️Big Data & Data Warehouse
 
 
