@@ -21,6 +21,9 @@
 
 ⚡️Creating a Model for Credit Risk Prediction: Partnering with ID/X Partners and Rakamin, I developed a model to enhance credit risk evaluation. The AdaBoost algorithm excelled with an ROC AUC score of 0.965 and Recall of 0.988, optimizing business decisions and minimizing potential losses.
 
+## 💻 Working On Project
+⚡️Predict Customer Clicked Ads Classification by Using Machine Learning
+
 ## 🛠 Tools
 ⚡️Python
 
