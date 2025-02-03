@@ -25,21 +25,11 @@
 ⚡️Predict Customer Clicked Ads Classification by Using Machine Learning
 
 ## 🛠 Tools
-⚡️Python
-
-⚡️MySQL, PostgreSQL
-
-⚡️Google Looker Studio
-
-## 🛠 Skills
-⚡️Statistics and Data Analytics
-
-⚡️Programming Language Scripting
-
-⚡️Machine Learning
-
-⚡️Data Visualization & Storytelling
-
-⚡️Big Data & Data Warehouse
-
+⚡️Programming Language: Python.
+⚡️Data Manipulation and Analysis: Pandas, Numpy, PySpark.
+⚡️Data Visualization: Matplotlib, Seaborn, Looker Studio, Tableau, Power BI.
+⚡️Machine Learning: Scikit-learn, Regression, Classification, Unspervised Learning.
+⚡️Databases: MySQL, PostgreSQL, DBeaver.
+⚡️Statistical Analysis: Hyphothesis testing, Regression Analysis.
+⚡️Other: Git, A/B Testing.
 
