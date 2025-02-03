@@ -3,12 +3,9 @@
 👩‍💻 Professional Data Scientist 👩‍💻
 
 ## 🚀 About Me
-⚡️ As a seasoned Data Scientist, I specialize in data preprocessing, imputation, wrangling, and transforming data into actionable insights. I also develop robust machine learning models.
-
-⚡️ I tackle diverse projects, analyzing complex business challenges and delivering strategic recommendations.
-
-⚡️ Feel free to explore my repositories to discover the projects I've completed.
-
+⚡️ As a seasoned Data Scientist, I specialize in data preprocessing, imputation, wrangling, and transforming data into actionable insights. I also develop robust machine learning models.<br>
+⚡️ I tackle diverse projects, analyzing complex business challenges and delivering strategic recommendations.<br>
+⚡️ Feel free to explore my repositories to discover the projects I've completed.<br>
 ⚡️ Connect with me through my portfolio and LinkedIn. Let's collaborate and innovate together! 😄
 
 ## 🔗 Links
@@ -25,11 +22,11 @@
 ⚡️Predict Customer Clicked Ads Classification by Using Machine Learning
 
 ## 🛠 Tools
-⚡️Programming Language: Python.
-⚡️Data Manipulation and Analysis: Pandas, Numpy, PySpark.
-⚡️Data Visualization: Matplotlib, Seaborn, Looker Studio, Tableau, Power BI.
-⚡️Machine Learning: Scikit-learn, Regression, Classification, Unspervised Learning.
-⚡️Databases: MySQL, PostgreSQL, DBeaver.
-⚡️Statistical Analysis: Hyphothesis testing, Regression Analysis.
-⚡️Other: Git, A/B Testing.
+⚡️Programming Language: Python. <br>
+⚡️Data Manipulation and Analysis: Pandas, Numpy, PySpark.<br>
+⚡️Data Visualization: Matplotlib, Seaborn, Looker Studio, Tableau, Power BI.<br>
+⚡️Machine Learning: Scikit-learn, Regression, Classification, Unspervised Learning.<br>
+⚡️Databases: MySQL, PostgreSQL, DBeaver.<br>
+⚡️Statistical Analysis: Hyphothesis testing, Regression Analysis.<br>
+⚡️Other: Git, A/B Testing.<br>
 
