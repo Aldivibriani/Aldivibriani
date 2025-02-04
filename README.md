@@ -14,7 +14,7 @@
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aldivibriani)
 
 # Current Activity
-⚡️ Making some projects analysis
+⚡️ Making some projects analysis<br>
 ⚡️ Actively open for Data Analyst, Business Analyst / Business Intelligence, and Data Scientist Role
 
 ## 📈 Recent Projects
