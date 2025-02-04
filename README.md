@@ -13,6 +13,10 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldi-vibriani/)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aldivibriani)
 
+# Current Activity
+⚡️ Making some projects analysis
+⚡️ Actively open for Data Analyst, Business Analyst / Business Intelligence, and Data Scientist Role
+
 ## 📈 Recent Projects
 ⚡️Analyzing Default Risk on Home Credit: In collaboration with Home Credit and Rakamin, I analyzed default rates and predicted customer risk profiles. Utilizing algorithms like Logistic Regression, Decision Tree, Random Forest, AdaBoost, and XGBoost, the Logistic Regression model achieved the best performance with an ROC AUC score of 0.74.
 
