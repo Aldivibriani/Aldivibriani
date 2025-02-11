@@ -18,17 +18,18 @@
 🔥 Actively open for Data Analyst, Business Analyst / Business Intelligence, and Data Scientist Role
 
 ## 📈 Recent Projects
-✅ Predict Customer Clicked Ads Classification by Using Machine Learning: <br> 
+✅ Predict Customer Clicked Ads Classification by Using Machine Learning: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/tree/main) <br> 
 Deveoped Logistic Regression model (Standardized) with score on Accuracy: 0.9767, precision: 0.993, and recall: 0.9600 with the best features: Daily Time Spent on Site, Daily Internet Usage, Area income, and Age, suggesting to Retargeting marketing on middle-aged adults customers (35 - 50 years old) with typical middle-lower income and spent less on site and internet.
 
-✅ Analyzing Default Risk on Home Credit: <br>
+✅ Analyzing Default Risk on Home Credit: [Link Project](https://github.com/Aldivibriani/Home-Credit-Scorecard-Model---Project-Based-Intern-Home-Credit-x-Rakamin) <br>
 In collaboration with Home Credit and Rakamin, I analyzed default rates and predicted customer risk profiles. Utilizing algorithms like Logistic Regression, Decision Tree, Random Forest, AdaBoost, and XGBoost, the Logistic Regression model achieved the best performance with an ROC AUC score of 0.74.
 
-✅ Creating a Model for Credit Risk Prediction: <br>
+✅ Creating a Model for Credit Risk Prediction: [Link Project](https://github.com/Aldivibriani/Credit-Risk-Model-Prediction-Project-Based-Intern-ID-X-Partners-x-Rakamin) <br>
 Partnering with ID/X Partners and Rakamin, I developed a model to enhance credit risk evaluation. The AdaBoost algorithm excelled with an ROC AUC score of 0.965 and Recall of 0.988, optimizing business decisions and minimizing potential losses.
 
 ## 💻 Working On Project
-📜 Predict Customer Clicked Ads Classification by Using Machine Learning
+📜 Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning [Link Project](https://github.com/Aldivibriani/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning) <br>
+📜 Improving Employee Retention by Predicting Employee Attrition [Link Project](https://github.com/Aldivibriani/Improving-Employee-Retention-by-Predicting-Employee-Attrition)
 
 ## 🛠 Tools
 ⚡️Programming Language: Python. <br>
