@@ -28,7 +28,7 @@ In collaboration with Home Credit and Rakamin, I analyzed default rates and pred
 Partnering with ID/X Partners and Rakamin, I developed a model to enhance credit risk evaluation. The AdaBoost algorithm excelled with an ROC AUC score of 0.965 and Recall of 0.988, optimizing business decisions and minimizing potential losses.
 
 ## 💻 Working On Project
-📜 Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning [Link Project](https://github.com/Aldivibriani/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning) <br>
+📜 Analyze Customer Personality to Enhance Marketing Campaigns Using Machine Learning Clustering [Link Project](https://github.com/Aldivibriani/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning) <br>
 📜 Improving Employee Retention by Predicting Employee Attrition [Link Project](https://github.com/Aldivibriani/Improving-Employee-Retention-by-Predicting-Employee-Attrition)
 
 ## 🛠 Tools
