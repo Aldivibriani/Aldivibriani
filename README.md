@@ -1,9 +1,9 @@
 
 # Hi, I'm Aldi! 👋
-👩‍💻 Professional Data Scientist 👩‍💻
+👩‍💻 Results-Oriented Analyst with a Focus on Data-Driven Decision Making and Predictive Analytics 👩‍💻
 
 ## 🚀 About Me
-🌍 As a seasoned Data Scientist, I specialize in data preprocessing, imputation, wrangling, and transforming data into actionable insights. I also develop robust machine learning models.<br>
+🌍 As a Professional Data Scientist, I specialize in data preprocessing, imputation, wrangling, and transforming data into actionable insights. I also develop robust machine learning models.<br>
 🎨 I tackle diverse projects, analyzing complex business challenges and delivering strategic recommendations.<br>
 📚 Feel free to explore my repositories to discover the projects I've completed.<br>
 💡 Connect with me through my portfolio and LinkedIn. Let's collaborate and innovate together! 😄
