@@ -19,7 +19,7 @@
 
 ## 📈 Recent Projects
 
-✅ Performance Marketing Dashboard Kimia Farma 2020 - 2023: [Link Project]([url](https://github.com/Aldivibriani/Performance-Marketing-Analysis-Kimia-Farma-2020---2023))
+✅ Performance Marketing Dashboard Kimia Farma 2020 - 2023: [Link Project](https://github.com/Aldivibriani/Performance-Marketing-Analysis-Kimia-Farma-2020---2023)
 Creating performance marketing dashboard on Kimia Farma using Tableau
 
 ✅ Predict Customer Clicked Ads Classification by Using Machine Learning: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/tree/main) <br> 
