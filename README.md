@@ -18,6 +18,10 @@
 🔥 Actively open for Data Analyst, Business Analyst / Business Intelligence, and Data Scientist Role
 
 ## 📈 Recent Projects
+
+✅ Performance Marketing Dashboard Kimia Farma 2020 - 2023: [Link Project]([url](https://github.com/Aldivibriani/Performance-Marketing-Analysis-Kimia-Farma-2020---2023))
+Creating performance marketing dashboard on Kimia Farma using Tableau
+
 ✅ Predict Customer Clicked Ads Classification by Using Machine Learning: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/tree/main) <br> 
 Deveoped Logistic Regression model (Standardized) with score on Accuracy: 0.9767, precision: 0.993, and recall: 0.9600 with the best features: Daily Time Spent on Site, Daily Internet Usage, Area income, and Age, suggesting to Retargeting marketing on middle-aged adults customers (35 - 50 years old) with typical middle-lower income and spent less on site and internet.
 
