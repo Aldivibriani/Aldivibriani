@@ -20,10 +20,13 @@
 ## 📈 Recent Projects
 ✅ Analyze Customer Personality to Enhance Marketing Campaigns Using Machine Learning Clustering: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning) <br>
 Creating customer personality using Machine Learning resulting 4 type of customers including: Cluster 0 (Middle-Low Income & Low Spend), Cluster 1 (Low Income & Spend), Cluster 2 (Middle-high Income & High Spend), and Cluster 3 (High Income & Spend). <br>
+
 ✅ Performance Marketing Dashboard Kimia Farma 2020 - 2023 (Project Based Intern Kimia Farma with Rakamin): [Link Project](https://github.com/Aldivibriani/Performance-Marketing-Analysis-Kimia-Farma-2020---2023) <br>
 Creating performance marketing dashboard on Kimia Farma using Tableau <br>
+
 ✅ Predict Customer Clicked Ads Classification by Using Machine Learning: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/tree/main) <br> 
 Deveoped Logistic Regression model (Standardized) with score on Accuracy: 0.9767, precision: 0.993, and recall: 0.9600 with the best features: Daily Time Spent on Site, Daily Internet Usage, Area income, and Age, suggesting to Retargeting marketing on middle-aged adults customers (35 - 50 years old) with typical middle-lower income and spent less on site and internet.<br>
+
 ✅ Analyzing Default Risk on Home Credit (Project Based Intern Home Credit with Rakamin): [Link Project](https://github.com/Aldivibriani/Home-Credit-Scorecard-Model---Project-Based-Intern-Home-Credit-x-Rakamin) <br>
 In collaboration with Home Credit and Rakamin, I analyzed default rates and predicted customer risk profiles. Utilizing algorithms like Logistic Regression, Decision Tree, Random Forest, AdaBoost, and XGBoost, the Logistic Regression model achieved the best performance with an ROC AUC score of 0.74.<br>
 
