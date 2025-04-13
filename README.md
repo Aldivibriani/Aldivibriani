@@ -18,7 +18,8 @@
 🔥 Further learning on AI & Machine Learning
 
 ## 📈 Recent Projects
-
+✅ Analyze Customer Personality to Enhance Marketing Campaigns Using Machine Learning Clustering: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning) <br>
+Creating customer personality using Machine Learning resulting 4 type of customers including: Cluster 0 (Middle-Low Income & Low Spend), Cluster 1 (Low Income & Spend), Cluster 2 (Middle-high Income & High Spend), and Cluster 3 (High Income & Spend). <br>
 ✅ Performance Marketing Dashboard Kimia Farma 2020 - 2023 (Project Based Intern Kimia Farma with Rakamin): [Link Project](https://github.com/Aldivibriani/Performance-Marketing-Analysis-Kimia-Farma-2020---2023) <br>
 Creating performance marketing dashboard on Kimia Farma using Tableau <br>
 ✅ Predict Customer Clicked Ads Classification by Using Machine Learning: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/tree/main) <br> 
@@ -29,8 +30,9 @@ In collaboration with Home Credit and Rakamin, I analyzed default rates and pred
 ## 💻 Working On Projects
 
 📜 Creating a Model for Credit Risk Prediction (Project Based Intern IDX Partners with Rakamin): [Link Project](https://github.com/Aldivibriani/Credit-Risk-Model-Prediction-Project-Based-Intern-ID-X-Partners-x-Rakamin) <br>
-📜 Analyze Customer Personality to Enhance Marketing Campaigns Using Machine Learning Clustering [Link Project](https://github.com/Aldivibriani/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning) <br>
+
 📜 Improving Employee Retention by Predicting Employee Attrition [Link Project](https://github.com/Aldivibriani/Improving-Employee-Retention-by-Predicting-Employee-Attrition) <br>
+
 📜 Dashboarding with Google Looker Studio (Project Based Intern Bank Muamalat with Rakamin) <br>
 
 
