@@ -18,6 +18,9 @@
 🔥 Further learning on AI & Machine Learning
 
 ## 📈 Recent Projects
+✅ Improving Employee Retention by Predicting Employee Attrition [Link Project](https://github.com/Aldivibriani/Improving-Employee-Retention-by-Predicting-Employee-Attrition) <br>
+Enhancing employee retention by developing a predictive model to identify employees who are at risk of leaving the company. By analyzing various HR data points and employee behavior patterns, the model helps organizations proactively address attrition issues, improve workforce stability, and reduce recruitment costs. The project includes data preprocessing, feature engineering, model training, and evaluation, with the goal of providing actionable insights for HR management.
+
 ✅ Analyze Customer Personality to Enhance Marketing Campaigns Using Machine Learning Clustering: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Personality-to-Boost-Marketing-Campaign-by-Using-Machine-Learning) <br>
 Creating customer personality using Machine Learning resulting 4 type of customers consist of: Cluster 0 (Middle-Low Income & Low Spend), Cluster 1 (Low Income & Spend), Cluster 2 (Middle-high Income & High Spend), and Cluster 3 (High Income & Spend). <br>
 
@@ -33,8 +36,6 @@ In collaboration with Home Credit and Rakamin, I analyzed default rates and pred
 ## 💻 Working On Projects
 
 📜 Creating a Model for Credit Risk Prediction (Project Based Intern IDX Partners with Rakamin): [Link Project](https://github.com/Aldivibriani/Credit-Risk-Model-Prediction-Project-Based-Intern-ID-X-Partners-x-Rakamin) <br>
-
-📜 Improving Employee Retention by Predicting Employee Attrition [Link Project](https://github.com/Aldivibriani/Improving-Employee-Retention-by-Predicting-Employee-Attrition) <br>
 
 📜 Dashboarding with Google Looker Studio (Project Based Intern Bank Muamalat with Rakamin) <br>
 
