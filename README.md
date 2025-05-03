@@ -27,7 +27,7 @@ Creating customer personality using Machine Learning resulting 4 type of custome
 ✅ Performance Marketing Dashboard Kimia Farma 2020 - 2023 (Project Based Intern Kimia Farma with Rakamin): [Link Project](https://github.com/Aldivibriani/Performance-Marketing-Analysis-Kimia-Farma-2020---2023) <br>
 Designing and developing an interactive performance marketing dashboard using Tableau, covering data from 2020 to 2023. The dashboard visualizes key marketing metrics such as campaign performance, ROI, conversion rates, and customer engagement over time. It enables marketing teams to monitor trends, identify successful strategies, and make data-driven decisions to optimize future campaigns. <br>
 
-✅ Retail Commerce Transaction Dashboard (2020-2023) – Looker Studio: [Link Project](https://github.com/Aldivibriani/Retail-Commerce-Transaction-Dashboard-2020-2023-Looker-Studio)
+✅ Retail Commerce Transaction Dashboard (2020-2023) – Looker Studio: [Link Project](https://github.com/Aldivibriani/Retail-Commerce-Transaction-Dashboard-2020-2023-Looker-Studio) <br>
 This project involves designing an interactive dashboard using Looker Studio to visualize key retail commerce metrics from 2020 to 2023. The dashboard provides insights into sales trends, revenue by product category, payment method usage, quantity sold by category, and discount amounts. It also includes detailed summaries of products, categories, and customers, enabling stakeholders to monitor performance, identify growth opportunities, and make data-driven decisions to optimize retail operations.
 
 ✅ Predict Customer Clicked Ads Classification by Using Machine Learning: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/tree/main) <br> 
