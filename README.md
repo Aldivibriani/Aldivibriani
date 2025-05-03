@@ -25,13 +25,19 @@ Enhancing employee retention by developing a predictive model to identify employ
 Creating customer personality using Machine Learning resulting 4 type of customers consist of: Cluster 0 (Middle-Low Income & Low Spend), Cluster 1 (Low Income & Spend), Cluster 2 (Middle-high Income & High Spend), and Cluster 3 (High Income & Spend). <br>
 
 ✅ Performance Marketing Dashboard Kimia Farma 2020 - 2023 (Project Based Intern Kimia Farma with Rakamin): [Link Project](https://github.com/Aldivibriani/Performance-Marketing-Analysis-Kimia-Farma-2020---2023) <br>
-Creating performance marketing dashboard on Kimia Farma using Tableau <br>
+Designing and developing an interactive performance marketing dashboard using Tableau, covering data from 2020 to 2023. The dashboard visualizes key marketing metrics such as campaign performance, ROI, conversion rates, and customer engagement over time. It enables marketing teams to monitor trends, identify successful strategies, and make data-driven decisions to optimize future campaigns. <br>
+
+✅ Retail Commerce Transaction Dashboard (2020-2023) – Looker Studio: [Link Project](https://github.com/Aldivibriani/Retail-Commerce-Transaction-Dashboard-2020-2023-Looker-Studio)
+This project involves designing an interactive dashboard using Looker Studio to visualize key retail commerce metrics from 2020 to 2023. The dashboard provides insights into sales trends, revenue by product category, payment method usage, quantity sold by category, and discount amounts. It also includes detailed summaries of products, categories, and customers, enabling stakeholders to monitor performance, identify growth opportunities, and make data-driven decisions to optimize retail operations.
 
 ✅ Predict Customer Clicked Ads Classification by Using Machine Learning: [Link Project](https://github.com/Aldivibriani/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/tree/main) <br> 
 Deveoped Logistic Regression model (Standardized) with score on Accuracy: 0.9767, precision: 0.993, and recall: 0.9600 with the best features: Daily Time Spent on Site, Daily Internet Usage, Area income, and Age, suggesting to Retargeting marketing on middle-aged adults customers (35 - 50 years old) with typical middle-lower income and spent less on site and internet.<br>
 
 ✅ Analyzing Default Risk on Home Credit (Project Based Intern Home Credit with Rakamin): [Link Project](https://github.com/Aldivibriani/Home-Credit-Scorecard-Model---Project-Based-Intern-Home-Credit-x-Rakamin) <br>
 In collaboration with Home Credit and Rakamin, I analyzed default rates and predicted customer risk profiles. Utilizing algorithms like Logistic Regression, Decision Tree, Random Forest, AdaBoost, and XGBoost, the Logistic Regression model achieved the best performance with an ROC AUC score of 0.74.<br>
+
+✅ Analyzing Shopping Cart: [Link Project](https://github.com/Aldivibriani/Analysis-on-Australian-Shopping-Cart)
+Analyzing shopping cart data from Australian retail transactions to uncover customer purchasing patterns and trends. By exploring the data through statistical analysis and visualization techniques, the project aims to provide insights into consumer behavior, popular product combinations, and seasonal variations. These findings can help retailers optimize inventory management, marketing strategies, and improve overall customer experience.
 
 ## 💻 Working On Projects
 
