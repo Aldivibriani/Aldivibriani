@@ -36,12 +36,13 @@ Deveoped Logistic Regression model (Standardized) with score on Accuracy: 0.9767
 ✅ Analyzing Default Risk on Home Credit (Project Based Intern Home Credit with Rakamin): [Link Project](https://github.com/Aldivibriani/Home-Credit-Scorecard-Model---Project-Based-Intern-Home-Credit-x-Rakamin) <br>
 In collaboration with Home Credit and Rakamin, I analyzed default rates and predicted customer risk profiles. Utilizing algorithms like Logistic Regression, Decision Tree, Random Forest, AdaBoost, and XGBoost, the Logistic Regression model achieved the best performance with an ROC AUC score of 0.74.<br>
 
-✅ Analyzing Shopping Cart: [Link Project](https://github.com/Aldivibriani/Analysis-on-Australian-Shopping-Cart)
+📜 Creating a Model for Credit Risk Prediction (Project Based Intern IDX Partners with Rakamin): [Link Project](https://github.com/Aldivibriani/Credit-Risk-Model-Prediction-Project-Based-Intern-ID-X-Partners-x-Rakamin) <br>
+Developed a credit risk prediction system to evaluate loan default probabilities, aimed at automating financial risk assessments for ID/X Partners. Performed comprehensive data preparation and transformation to optimize datasets for machine learning. Employed Logistic Regression to build the model, achieving high performance metrics. Delivered a model with an ROC-AUC of 92% and recall of 89%, enabling precise and automated credit risk evaluation.
+
+✅ Analyzing Shopping Cart: [Link Project](https://github.com/Aldivibriani/Analysis-on-Australian-Shopping-Cart) <br>
 Analyzing shopping cart data from Australian retail transactions to uncover customer purchasing patterns and trends. By exploring the data through statistical analysis and visualization techniques, the project aims to provide insights into consumer behavior, popular product combinations, and seasonal variations. These findings can help retailers optimize inventory management, marketing strategies, and improve overall customer experience.
 
 ## 💻 Working On Projects
-
-📜 Creating a Model for Credit Risk Prediction (Project Based Intern IDX Partners with Rakamin): [Link Project](https://github.com/Aldivibriani/Credit-Risk-Model-Prediction-Project-Based-Intern-ID-X-Partners-x-Rakamin) <br>
 
 📜 Dashboarding with Google Looker Studio (Project Based Intern Bank Muamalat with Rakamin) <br>
 
